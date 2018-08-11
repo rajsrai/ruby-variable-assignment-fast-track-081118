@@ -29,7 +29,7 @@ puts "value of my_age is #{my_age}"
 # gets automatically returned 
 def my_method
   puts "Hello there"
-  return "potatoes"
+  "potatoes"
 end
 
 my_method
