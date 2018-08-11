@@ -20,7 +20,7 @@ age_next_year = add_num_to_age(25, 1)
 puts "My age next year is #{age_next_year}"
 
 #calling, or invoking, a method:
-add_one_to_age(my_age)
+#add_one_to_age(my_age)
 
 puts "value of my_age is #{my_age}"
 # implicit return:
