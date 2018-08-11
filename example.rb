@@ -32,3 +32,4 @@ def my_method
   return "potatoes"
 end
 
+my_method
