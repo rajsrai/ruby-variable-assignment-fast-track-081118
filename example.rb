@@ -8,4 +8,5 @@ puts some_stuff_array
 my_age += 1 #same as my_age = my_age + 1
 puts "Now, my age is #{my_age}"
 puts "Now, my age is " + my_age.to_s
-puts dog + my_age
+puts "#{dog} + #{my_age}"
+
