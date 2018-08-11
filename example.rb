@@ -14,7 +14,7 @@ def add_one_to_age(age)
   # body of function
   # what are we going to do here?
   puts age
-  my_age += 1
+  age += 1
   puts "my new age is #{my_age}"
 end
 
