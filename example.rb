@@ -20,3 +20,4 @@ end
 
 #calling, or invoking, a method:
 add_one_to_age(my_age)
+puts "value of my_age os #{my_age}"
