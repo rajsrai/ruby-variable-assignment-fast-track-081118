@@ -34,4 +34,3 @@ def my_method
   return "potatoes"
 end
 
-binding.pry
