@@ -10,7 +10,10 @@ puts "Now, my age is #{my_age}"
 puts "Now, my age is " + my_age.to_s
 puts "My dogs name is #{dog}, my age is #{my_age} and I live in " + state
 puts dog + state
+
 def name_function
   # body of function
   # what are we going to do here?
+  my_age += 1
+  puts "my new age is #{my_age}"
 end
