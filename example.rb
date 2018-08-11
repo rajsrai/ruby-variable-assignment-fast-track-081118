@@ -32,4 +32,4 @@ def my_method
   "potatoes"
 end
 
-my_method
+puts my_method
