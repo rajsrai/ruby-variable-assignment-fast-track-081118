@@ -1,4 +1,3 @@
-return pry
 dog = "Wolf"
 my_age = 30
 some_stuff_array = [1,2,"fish"]
