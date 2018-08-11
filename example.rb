@@ -15,7 +15,7 @@ def add_one_to_age(age)
   # what are we going to do here?
   puts age
   age += 1
-  puts "my new age is #{my_age}"
+  puts "my new age is #{age}"
 end
 
 #calling, or invoking, a method:
