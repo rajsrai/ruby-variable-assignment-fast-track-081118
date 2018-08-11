@@ -6,3 +6,5 @@ puts my_age
 puts some_stuff_array
 
 my_age += 1
+puts "Now, my age is"
+puts my_age
