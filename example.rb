@@ -23,3 +23,9 @@ end
 add_one_to_age(my_age)
 
 puts "value of my_age is #{my_age}"
+
+def my_method
+  puts "Hello there"
+end
+
+binding.pry
