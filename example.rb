@@ -8,5 +8,5 @@ state = " FL"
 my_age += 1 #same as my_age = my_age + 1
 puts "Now, my age is #{my_age}"
 puts "Now, my age is " + my_age.to_s
-puts "My dogs name is #{dog} + my age is #{my_age} and I live in" + state
-
+puts "My dogs name is #{dog}, my age is #{my_age} and I live in" + state
+puts dog + state
