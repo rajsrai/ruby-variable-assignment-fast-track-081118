@@ -10,13 +10,14 @@ puts "Now, my age is #{my_age}"
 puts "Now, my age is " + my_age.to_s
 puts "My dogs name is #{dog}, my age is #{my_age} and I live in " + state
 puts dog + state
-def add_one_to_age(age)
+def add_num_to_age(age, num_years)
   # body of function
   # what are we going to do here?
-  puts age
-  age += 1
-  puts "my new age is #{age}"
+  age += num_years
 end
+
+age_next_year = add_num_to_age(25, 1)
+puts "My age next year is #{age_next_year}"
 
 #calling, or invoking, a method:
 add_one_to_age(my_age)
