@@ -24,9 +24,14 @@ end
 add_one_to_age(my_age)
 
 puts "value of my_age is #{my_age}"
-
+# implicit return:
+# the last thing gets returned
+# the result of the evaluation of the last 
+# line of code executed within the method
+# gets automatically returned 
 def my_method
   puts "Hello there"
+  return "potatoes"
 end
 
 binding.pry
