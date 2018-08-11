@@ -18,4 +18,5 @@ def add_one_to_age(my_age)
   puts "my new age is #{my_age}"
 end
 
+#calling, or invoking, a method:
 add_one_to_age
