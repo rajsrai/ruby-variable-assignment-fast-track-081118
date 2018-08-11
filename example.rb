@@ -11,7 +11,7 @@ puts "Now, my age is " + my_age.to_s
 puts "My dogs name is #{dog}, my age is #{my_age} and I live in " + state
 puts dog + state
 
-def add_one_to_age
+def add_one_to_age(my_age)
   # body of function
   # what are we going to do here?
   my_age += 1
